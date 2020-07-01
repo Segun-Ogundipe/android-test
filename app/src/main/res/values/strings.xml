@@ -1,4 +1,10 @@
 <resources>
     <string name="app_name">Android Test</string>
     <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="install_play">You need to install Google Play Services to use the App properly</string>
+    <string name="latitude">Latitude : %1$f</string>
+    <string name="longitude">Longitude : %1$f</string>
+    <string name="view_locations">View Locations</string>
 </resources>
